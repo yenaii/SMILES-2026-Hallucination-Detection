@@ -18,7 +18,7 @@ git clone https://github.com/yenaii/SMILES-2026-Hallucination-Detection
 cd SMILES-2026-Hallucination-Detection
 pip install -r requirements.txt
 ```
-Then change `USE_GEOMETRIC` flag to `True`
+`USE_GEOMETRIC` flag must be `True` (Already changed to `True` in this repo)
 
 ### Run
 
